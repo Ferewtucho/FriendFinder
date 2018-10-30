@@ -12,6 +12,6 @@ You can now run node server.js inside the Friend Finder directory to start the a
 <h2>Dependencies</h2>
 Express, path and body-parser.
 
-<ul>
-Check out <a href = "https://warm-headland-58753.herokuapp.com/" target = "_blank">this demo version of the site</a>
-</ul>
+<br>
+<li>Check out <a href = "https://warm-headland-58753.herokuapp.com/" target = "_blank">this demo version of the site</a></li>
+
